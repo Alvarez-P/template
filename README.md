@@ -2,11 +2,11 @@
 
 One Paragraph of project description goes here. This is a template for organization repositories, set your own stuff.
 
-## Getting Started
+## Getting Started :arrow_forward:
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
-### Prerequisites 📋
+### Prerequisites :clipboard:
 
 What things you need to install the software and how to install them
 
@@ -33,7 +33,7 @@ until finished
 End with an example of getting some data out of the system or using it for a little demo
 
 
-## Deployment 📦
+## Deployment :package:
 
 Add additional notes about how to deploy this on a live system
 
@@ -51,21 +51,21 @@ Please read [CONTRIBUTING.md](https://www.aaaimx.org/cod) for details on our cod
 
 We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
 
-## Future work 🚀
+## Future work :rocket:
 
 ## Contributors :family_man_man_boy:
 
 - **Esteban Alvarez** - _Initial work_ - [@alvarez98](https://github.com/alvarez98)
 
-## Credits
+## Credits :star:
 
 - **A template to make good README.md** - _Base template_ - [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
 
-## Referencias
+## References :link:
 
 1. 
 
-## License 📄
+## License :page_facing_up:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
 
